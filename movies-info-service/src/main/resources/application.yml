@@ -1,10 +1,11 @@
 spring:
+  application:
+    name: movies-info-service
   data:
     mongodb:
       host: localhost
       port: 27017
       database: movie
-
 
 #logging:
 #  level:
