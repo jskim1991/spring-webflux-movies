@@ -1,0 +1,14 @@
+[
+  {
+    "reviewId": "1",
+    "movieInfoId": 123,
+    "comment": "Bad movie",
+    "rating": 3.1
+  },
+  {
+    "reviewId": "2",
+    "movieInfoId": 123,
+    "comment": "Decent movie",
+    "rating": 7.0
+  }
+]
